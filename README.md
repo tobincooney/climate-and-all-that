@@ -13,6 +13,7 @@ https://fredcashoon.github.io/climate-and-all-that/
 
 
 three pannels
+
 1 - devonian periood
   >
 2 - pleistocene epoch
