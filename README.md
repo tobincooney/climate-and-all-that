@@ -6,6 +6,8 @@ we are using this to organise our assets and other things
 Some stuff:
 some thoughts:
 
+https://drive.google.com/file/d/0B-WzgWrf4nPaX0lldDVUN1plN3c/view
+
 https://pbs.twimg.com/media/DdNU4PqX0AAZrDY.jpg
 
 https://fredcashoon.github.io/climate-and-all-that/
