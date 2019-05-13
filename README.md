@@ -2,3 +2,8 @@
 mhm
 
 we are using this to organise our assets and other things
+
+Some stuff:
+some thoughts:
+https://pbs.twimg.com/media/DdNU4PqX0AAZrDY.jpg
+https://fredcashoon.github.io/climate-and-all-that/
