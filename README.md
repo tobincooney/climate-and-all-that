@@ -14,6 +14,8 @@ https://fredcashoon.github.io/climate-and-all-that/
 
 https://thumbs.dreamstime.com/z/skaftafell-glacier-vatnajokull-national-park-iceland-113380094.jpg
 
+<img src="https://i.pinimg.com/originals/01/83/00/0183002ad553692e9f0850e0721ce607.jpg" alt="Image result for michigan topographic map"/> potentially useful
+
 three pannels
 
 1 - devonian periood
