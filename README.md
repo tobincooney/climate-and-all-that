@@ -1,4 +1,4 @@
-## climate-and-all-that
+# climate-and-all-that
 mhm
 
 we are using this to organise our assets and other things
@@ -17,7 +17,7 @@ https://thumbs.dreamstime.com/z/skaftafell-glacier-vatnajokull-national-park-ice
 three pannels
 
 1 - devonian periood
-  > https://www.therapidian.org/sites/default/files/imagecache/article_main/article_images/pre-historicarticle-middledevonianmichianmapnpsgov.jpg
+  https://www.therapidian.org/sites/default/files/imagecache/article_main/article_images/pre-historicarticle-middledevonianmichianmapnpsgov.jpg
 2 - pleistocene epoch
   >
 3 - modern
