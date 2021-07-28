@@ -1,10 +1,14 @@
 # climate-and-all-that
-mhm
 
-we are using this to organise our assets and other things
+FOS1 science project about some things
 
-Some stuff:
-some thoughts:
+<img src="./final-1.png />
+<img src="./final-2.png />
+<img src="./final-3.png />
+
+
+
+## links & notes ##
 
 https://drive.google.com/file/d/0B-WzgWrf4nPaX0lldDVUN1plN3c/view
 
