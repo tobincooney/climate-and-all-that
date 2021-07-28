@@ -2,10 +2,9 @@
 
 FOS1 science project about some things
 
-<img src="./final-1.png />
-<img src="./final-2.png />
-<img src="./final-3.png />
-
+<img src="https://raw.githubusercontent.com/FredCashoon/climate-and-all-that/master/final-1.png" />
+<img src="https://raw.githubusercontent.com/FredCashoon/climate-and-all-that/master/final-2.png" />
+<img src="https://raw.githubusercontent.com/FredCashoon/climate-and-all-that/master/final-3.png" />
 
 
 ## links & notes ##
